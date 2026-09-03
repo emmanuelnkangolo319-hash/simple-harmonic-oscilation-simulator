@@ -1,8 +1,17 @@
 # simple-harmonic-oscilation-simulator
-A Python script that calculates angular frequency from stiffness (k) and mass (m) to simulate and plot Simple Harmonic Motion (SHM) sine waves over time using NumPy and Matplotlib.
-ok i actually made some changes, the biggest one, we have a web based ui. so everybody can try this. oh and i wanted to mention, this doesnt take away the need to study. i am tackling the biggest problem with studying stem subjects, visualization.
-i believe that staring at numbers, formulas and your probably bald teachers  head all day, is what drains the life out of these stem subjects, forgetting that we are litterly studying how our world works, the mechanics of nature, putting all that knowlegde in a way we can all understand, math is just the study of the universe, translated for humans
+A web app that allows you to graph functions and simple harmonic waves(for now atleast)
+this web app is tackling one of the problems with studying math, visualization. New features will be added, if you have any ideas worth mentioning, please comment and lets try getting into contact
 
-the hardest part in this project was actually the ui, no not because im a genius, even though i am, but its because i just came from studying this to get ahead during the summer. i used streamlit to make my life easier, cause i dont have any knowlegde in java script, just abit of html to make a weird looking portfolio. 
+Here is one of the screenshots:
 
-i do recommend streamit for small web apps like these, cause you can still use python for the math literally in the same file
+<img width="945" height="394" alt="Screenshot 2026-09-02 145425" src="https://github.com/user-attachments/assets/43a70266-fed8-4205-b696-645d691e28e8" />
+
+this is the url to the website:
+
+https://simple-harmonic-oscilation-simulator-59dqmxnucf42bbqduaahzf.streamlit.app/
+
+this project(details):
+
+made using streamlit(a python library)
+you chose between the most used functions in algebra, plug in the numbers and see your graph
+*new features will be added, stuff like more mathematics topics, and way more physics
