@@ -8,7 +8,9 @@ Here is one of the screenshots:
 
 this is the url to the website:
 
-https://simple-harmonic-oscilation-simulator-59dqmxnucf42bbqduaahzf.streamlit.app/
+http://github.com/emmanuelnkangolo319-hash/simple-harmonic-oscilation-simulator/releases/tag/v1.0.0
+
+to run this just download the zip file, extract, then open the extracted folder and double-click run_app.exe. The simulator opens instantly in your local browser. its actually pretty quick and easy
 
 this project(details):
 
