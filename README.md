@@ -1,6 +1,6 @@
 
 # simple-harmonic-oscilation-simulator
-A web app that allows you to graph functions and simple harmonic waves
+A web app that allows you to graph functions and simple harmonic waves.
 This web app is tackling one of the problems with studying math, visualization. New features will be added, if you have any ideas worth mentioning, please comment and lets try getting into contact.
 
 Here is how it looks:
