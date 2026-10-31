@@ -25,4 +25,6 @@ Features:
 
 *New features will be added, stuff like more mathematics topics, and way more physics.
 
-I actually only used streamlit for this, since this project is not for super complicated. Ofcourse at some point i will probably integrate matplotlib and other quite "complicated" libraries, since this web-app will be evolving with me.
+I actually only used streamlit for this, since this project is not super complicated. Ofcourse at some point i will probably integrate matplotlib and other quite "complicated" libraries, since this web-app will be evolving with me.
+
+ok, i just come from coding it with customtkinter since stardance doesnt except anything with local host at the top, the file is kinda big so if you dont enjoy the project as much as i do, make sure to delete it after, thanks
