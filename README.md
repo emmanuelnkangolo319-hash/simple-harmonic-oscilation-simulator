@@ -28,3 +28,8 @@ Features:
 I actually only used streamlit for this, since this project is not super complicated. Ofcourse at some point i will probably integrate matplotlib and other quite "complicated" libraries, since this web-app will be evolving with me.
 
 ok, i just come from coding it with customtkinter since stardance doesnt except anything with local host at the top, the file is kinda big so if you dont enjoy the project as much as i do, make sure to delete it after, thanks
+
+new version with customtkinter:
+
+<img width="821" height="479" alt="Screenshot 2026-10-31 114219" src="https://github.com/user-attachments/assets/b53b883d-7c63-40b2-8ff7-f8dd7f251e46" />
+
